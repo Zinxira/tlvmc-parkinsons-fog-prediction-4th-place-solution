@@ -1,0 +1,18 @@
+{
+    "SEED": 0,
+    "DSPART": 1.0,
+    "TRAINPART": 0.8,
+    "DOWNHZ": 50,
+    "MAXSEQLEN": 200000,
+    "MAXCHUNKSIZE": 500000,
+    "BS": 1,
+    "NWORK": 0,
+    "ISIZE": 3,
+    "HSIZE": 128,
+    "NL": 1,
+    "NC": 4,
+    "NEPOCHS": 20,
+    "LR": 0.001,
+    "COSSTART": 0.75,
+    "VINTER": 1
+}
