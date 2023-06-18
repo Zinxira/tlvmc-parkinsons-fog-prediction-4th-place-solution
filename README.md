@@ -1,5 +1,5 @@
 # 4th Place Solution: a MultiLayer Bidirectional GRU with Residual Connections
-This archive contains the 4th place solution for the "Parkinson's Freezing of Gait Prediction" Kaggle competition (https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction). 
+This archive contains the 4th place solution for the "Parkinson's Freezing of Gait Prediction" Kaggle competition (https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction). See this post https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/discussion/416410 for a more complete view of this solution. 
 
 ## HARDWARE
 The following specs were used to create the original solution:
